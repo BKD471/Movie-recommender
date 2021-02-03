@@ -8,7 +8,7 @@ This app shows you all the details regarding the cast and crew information ,genr
 Besides giving you all the details, it recommends you several movies based on your search 
 and performs sentiment analysis on the viewers comments which shows the acceptance/disliking of that movie among the audience
 <h1>App is hosted at<h1>
-<ul><li><a href='https://movieprime.herokuapp.com/' target="_blank">Click to here see the App in action</a></li></ul>
+<ul><li><a href='https://movieprime.herokuapp.com/' target="_blank">Click  here to see the App in action</a></li></ul>
 
 <h1>How to run this project</h1>
 <ol>

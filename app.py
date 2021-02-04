@@ -156,4 +156,4 @@ def recommend():
         movie_cards=movie_cards,reviews=movie_reviews,casts=casts,cast_details=cast_details)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
